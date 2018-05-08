@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 160e2a4533493b7469b73e91d38519ba
+timeCreated: 1516265331
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_tmpEnemy: {fileID: 1669243611600120, guid: e3718db787124444689fde6098599316,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
